@@ -1,5 +1,5 @@
 public class CafeJava {
-  public static void main(String[] arg) {
+  public static void main(String[] args) {
     // APP VARIABLES
     // Lines of text that will appear in the app. 
     String generalGreeting = "Welcome to Cafe Java, ";
